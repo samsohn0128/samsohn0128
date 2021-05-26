@@ -5,7 +5,7 @@
     2. Back-End (Java, Spring ■■■■□, Go ■■□□□)
     3. Android (Kotlin ■■■□□)
     4. AI (Tensorflow, Tensorflow Lite, Python ■■■□□)
-    5. Front-End (JSP, Bootstrap ■■■□□)
+    5. Front-End (Vue.js, Bootstrap ■■■□□)
 <!--
 **samsohn0128/samsohn0128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
