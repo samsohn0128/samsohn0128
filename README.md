@@ -2,10 +2,10 @@
 ### DONG WOO SOHN (samsohn0128)
 - 🌱 I’m currently learning ...
     1. Algorithm (Java, C++ ■■■■■)
-    2. Back-End (Java, SpringBoot ■■■□□)
+    2. Back-End (Java, SpringBoot ■■■■□)
     3. Front-End (Vue.js, Bootstrap ■■■□□)
     4. Android (Kotlin ■■□□□)
-    5. AI (Tensorflow, Tensorflow Lite, Python ■■□□□)
+    5. AI/ML (Tensorflow, Tensorflow Lite, Python ■■□□□)
 - 🔭 I’m currently working on ...
     1. [Samsung Software Academy For Youth(SSAFY)](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp)
 <!--
