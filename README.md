@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### DONG WOO SOHN (samsohn0128)
 - 🌱 I’m currently learning ...
-    1. Algorithm (Java, C++ ■■■■■)
+    1. Algorithm (Java, C++ ■■■■□)
     2. Back-End (Java, SpringBoot ■■■■□)
     3. Front-End (Vue.js, Bootstrap ■■■□□)
     4. Android (Kotlin ■■□□□)
