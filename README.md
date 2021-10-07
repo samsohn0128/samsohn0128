@@ -2,6 +2,8 @@
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=samsohn0128)](https://solved.ac/samsohn0128)
 
+[![samsohn0128's github stats](https://github-readme-stats.vercel.app/api?username=samsohn0128&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+
 ### DONG WOO SOHN (samsohn0128)
 - 🌱 I’m currently learning ...
     1. Algorithm (Java, C++ ■■■■□)
