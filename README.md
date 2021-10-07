@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://github.com/dl0312/dl0312/blob/master/hi.gif?raw=true" width="25px">
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=samsohn0128)](https://solved.ac/samsohn0128)
 
