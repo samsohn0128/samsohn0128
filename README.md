@@ -4,7 +4,9 @@
 
 [![samsohn0128's github stats](https://github-readme-stats.vercel.app/api?username=samsohn0128&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samsohn0128&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 ### DONG WOO SOHN (samsohn0128)
 - 🌱 I’m currently learning ...
