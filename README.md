@@ -17,6 +17,7 @@
     5. AI/ML (Tensorflow, Tensorflow Lite, Python ■■□□□)
 - 🔭 I’m currently working on ...
     1. [Samsung Software Academy For Youth(SSAFY)](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp)
+    2. Spring Boot, Vue.js
 <!--
 **samsohn0128/samsohn0128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
