@@ -7,7 +7,7 @@
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samsohn0128&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 -->
-
+<!--
 ### DONG WOO SOHN (samsohn0128)
 - 🌱 I’m currently learning ...
     1. Algorithm (Java, C++ ■■■■□)
@@ -18,7 +18,7 @@
 - 🔭 I’m currently working on ...
     1. [Samsung Software Academy For Youth(SSAFY)](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp)
     2. Spring Boot, Vue.js
-<!--
+
 **samsohn0128/samsohn0128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
